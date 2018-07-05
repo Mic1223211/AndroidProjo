@@ -21,7 +21,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 public class ChangeTextBehaviorTest {
-    public static final String STRING_TO_BETYPED = "Espresso";
+    public static final String STRING_TO_BETYPED = "AndroidProjo";
 
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule = new ActivityTestRule<>(MainActivity.class);
